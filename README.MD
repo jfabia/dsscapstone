@@ -1,7 +1,5 @@
 ---
 # Word Predict: An English Word Prediction App
-### author: Joseph Fabia
-### date: April 2, 2019
 ---
 ***
 
