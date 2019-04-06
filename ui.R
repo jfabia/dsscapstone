@@ -66,8 +66,10 @@ shinyUI(navbarPage("Word Predict",
                br(),
                     
                h4(tags$b("Resources")),
-               h6("Product pitch of this app is found here"),
-               h6("Github repository containing the app's working files is found here")
+               h6("Product pitch of this app is found ", 
+                  a("here", href="http://rpubs.com/jfabia/dsscapstone_pitch")),
+               h6("App's Github repository containing working files is found ", 
+                  a("here", href="https://github.com/jfabia/dsscapstone"))
                     
                     
               )
