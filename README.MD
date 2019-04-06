@@ -1,14 +1,9 @@
 ---
-title: "Word Predict: An English Word Prediction App"
-author: Joseph Fabia
-date: April 2, 2019
+# Word Predict: An English Word Prediction App
+### author: Joseph Fabia
+### date: April 2, 2019
 ---
 ***
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 ## Overview
 ***
