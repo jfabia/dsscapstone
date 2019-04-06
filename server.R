@@ -21,7 +21,7 @@ shinyServer(function(input, output) {
 
   withProgress(message="Initializing", value = 0, {
     n <- 1
-    source("./PredictInput.R")    
+    source("./functions.R")    
     incProgress(1/n, detail = "Loading n-grams")
     
   })

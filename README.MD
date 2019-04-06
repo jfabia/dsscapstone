@@ -19,6 +19,6 @@ Subfolders
 
 Files
 
-- PredictInput.R contains the functions called by the Shiny app.
+- functions.R contains the functions called by the Shiny app.
 - server.R and ui.R are the core codes for the Shiny app.
 

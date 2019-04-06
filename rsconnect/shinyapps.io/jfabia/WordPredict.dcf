@@ -5,9 +5,9 @@ account: jfabia
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 843625
-bundleId: 1991536
+bundleId: 1991613
 url: https://jfabia.shinyapps.io/WordPredict/
-when: 1554574985.34757
+when: 1554577750.11296
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: devtcode/1_create_corpus.R|devtcode/2_create_ngrams.R|devtcode/3_create_functions.R|devtcode/orig_data/full-list-of-bad-words_text-file_2018_07_30.txt|devtcode/orig_data/profanity.zip|pitch
+ignoredFiles: README.MD|devtcode/1_create_corpus.R|devtcode/2_create_ngrams.R|devtcode/3_create_functions.R|devtcode/orig_data/full-list-of-bad-words_text-file_2018_07_30.txt|devtcode/orig_data/profanity.zip|pitch
